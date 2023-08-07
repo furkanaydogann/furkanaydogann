@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanaydogann&show_icons=true&locale=en&layout=compact" alt="furkanaydogann" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanaydogann&show_icons=true&locale=en" alt="furkanaydogann" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanaydogann&" alt="furkanaydogann" /></p>
